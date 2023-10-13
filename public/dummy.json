@@ -1,0 +1,52 @@
+{
+    "dummy": [
+      {
+        "Sno": "1",
+        "profile": "👽",
+        "first_name": "Terry",
+        "last_name": "Medhurst",
+        "gender": "male",
+        "email": "atuny@hu.com",
+        "username": "atury",
+        "domain": "slashdot.org",
+        "IP": "117.29.86.254",
+        "university": "Capitol University"
+      },
+      {
+        "Sno": "2",
+        "profile": "👽",
+        "first_name": "Sheldon",
+        "last_name": "Quigley",
+        "gender": "male",
+        "email": "hbingley1@pala.jp",
+        "username": "hbinley1",
+        "domain": "51.la",
+        "IP": "253.240.20.181",
+        "university": "Stavropol State Technical University"
+      },
+      {
+        "Sno": "3",
+        "profile": "👽",
+        "first_name": "Terril",
+        "last_name": "Hills",
+        "gender": "male",
+        "email": "rshawe2@51.la",
+        "username": "rshawe@512",
+        "domain": "earthlink.net",
+        "IP": "205.226.160.3",
+        "university": "University of Cagayan Valley"
+      },
+      {
+        "Sno": "4",
+        "profile": "👽",
+        "first_name": "Miles",
+        "last_name": "Cammerata",
+        "gender": "male",
+        "email": "yraigatt3@nature.com",
+        "username": "yraigatt3",
+        "domain": "homestead.com",
+        "IP": "243.20.78.113",
+        "university": "Shenyang Pharmaceutical University"
+      }
+    ]
+  }
